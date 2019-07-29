@@ -1,0 +1,15 @@
+{
+  "name": "zano",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Ozan Yetgin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.6.0"
+  }
+}
