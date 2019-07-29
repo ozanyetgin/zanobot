@@ -62,4 +62,5 @@ client.on('guildBanAdd' , (guild, user) => {
   if (!girişçıkış) return;
   girişçıkış.send('**Adalet dağıtma zamanı gelmiş!** '+ user.username +' hayatında başarılar... **Bakıyorum da suç işlemiş, yargı dağıtmaya devam!** :writing_hand:' );
 });
-client.login('NjAwMjMzODM1ODc5MjAyODI2.XSwyYg.xlD4acbLkgC5Gy8kZ7YxU68C7nk');
+
+client.login(process.env.BOT_TOKEN);
