@@ -22,7 +22,7 @@ if (msg.content.toLowerCase() === prefix + 'sa')  {
 msg.reply('Aleyküm Selam!')
 }
 if (msg.content.toLowerCase() === prefix + 'hi')  {
-msg.reply('Hi too!')
+msg.reply('Hi :)')
 }
 if (msg.content.toLowerCase() === prefix + 'yardım')  {
 msg.reply('Komutlara http://zano.mozello.com adresinden bakabilirsin!')
@@ -31,7 +31,7 @@ if (msg.content.toLowerCase() === prefix + 'help')  {
 msg.reply('Komutlara http://zano.mozello.com adresinden bakabilirsin!')
 }
 if (msg.content.toLowerCase() === prefix + 'nasılsın')  {
-msg.reply('İyiyim sen nasılsın?')
+msg.reply('İyiyim, sen nasılsın?')
 }
 if (msg.content.toLowerCase() === prefix + 'şu an ne yapıyorsun?')  {
 msg.reply('IQ5000 in yeni bölümünü çekiyoruz Ozanla.')
